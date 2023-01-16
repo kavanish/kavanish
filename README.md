@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Avanish Kumar
-- 👀 I’m interested in Java, Ansible, Terraform & Scripting (Python, shell & Powershell)
-- 🌱 I’m currently learning key concept of DS/Algo using c++
-- 💞️ I’m looking to collaborate on Java/C++ based Projects
+- 👀 I’m interested in Java-Spring boot and ReactJs Based Full stack projects, 
+- Also having exposure to Ansible, Terraform & Scripting and Cloud computing platforms(AWS, Azure and AzureStack)
